@@ -14,3 +14,5 @@ Nama  : Kumara davin Valerian
 Kelas : TI.22.A.2
 Nim   : 312210192
 ~~~
+
+
