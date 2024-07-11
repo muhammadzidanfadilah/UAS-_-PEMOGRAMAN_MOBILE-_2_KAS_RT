@@ -1,4 +1,4 @@
-# awalnya nama proyek Ecommerce diganti jadi kasrt
+# Awalnya nama proyek Ecommerce diganti jadi kasrt
 
 # Kelompok 4
 ~~~
