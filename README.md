@@ -1,4 +1,4 @@
-# UAS-_-PEMOGRAMAN_MOBILE-_2_KAS_RT
+# awalnya nama proyek Ecommerce diganti jadi kasrt
 
 # Kelompok 4
 ~~~
